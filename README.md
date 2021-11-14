@@ -15,4 +15,4 @@ https://www.urlencoder.io/
 
 ##订阅URL格式
 
-##【订阅转码URL】&insert=false&config=【GitRAW转码URL】&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+##【订阅转码URL】&insert=false&config=【GitRAW.ini转码URL】&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
