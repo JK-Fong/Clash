@@ -2,7 +2,7 @@
 # 阿里
 IP-CIDR,8.128.0.0/10,no-resolve
 IP-CIDR,8.208.0.0/12,no-resolve
-IP-CIDR,8.134.53.0/255,no-resolve
+IP-CIDR,8.134.0.0/24,no-resolve
 IP-CIDR,14.1.112.0/22,no-resolve
 IP-CIDR,41.222.240.0/22,no-resolve
 IP-CIDR,41.223.119.0/24,no-resolve
