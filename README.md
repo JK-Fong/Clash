@@ -2,7 +2,7 @@
 
 ##Ghelper@Clash+策略
 
-https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fghelper.me%2Fclash%2F48c232ec45e137e444cf3c1662c05617&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FJK-Fong%2FClash%2Fmain%2FRuleSet_En.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+[]sub?target=clash&url=https%3A%2F%2Fghelper.me%2Fclash%2F48c232ec45e137e444cf3c1662c05617&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FJK-Fong%2FClash%2Fmain%2FRuleSet_En.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 
 
 ##订阅转换托管API
