@@ -8,6 +8,7 @@
 ##订阅转换托管API
 
 https://subcon.dlj.tf/
+https://bianyuan.xyz/
 
 ##URL Encoding
 
